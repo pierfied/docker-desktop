@@ -1,0 +1,9 @@
+TAG=desktop
+
+USERNAME=user
+PASSWORD=pass
+
+HOME_DIR=path
+
+RDP_PORT=3389
+SHM_SIZE=2g
